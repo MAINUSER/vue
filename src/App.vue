@@ -239,6 +239,7 @@
 				<div>24</div>
 			</div>
 		</div>
+        <HelloWorld msg="Welcome to Your Vue.js App"/>
 	</div>
 </template>
 
